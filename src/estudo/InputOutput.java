@@ -1,3 +1,5 @@
+package estudo;
+
 import javax.swing.*;
 import java.util.Scanner;
 
